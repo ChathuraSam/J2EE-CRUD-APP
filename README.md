@@ -12,6 +12,6 @@ Tools and technologies Used
 
 Screens
 ----------
-<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/list.PNG" width="300"/>
-<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/add.PNG" width="300"/>
-<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/edit.PNG" width="300"/>
+<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/list.PNG" width="700"/>
+<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/add.PNG" width="700"/>
+<img src="https://raw.githubusercontent.com/ChathuraSam/J2EE-CRUD-APP/main/WebContent/img/edit.PNG" width="700"/>
